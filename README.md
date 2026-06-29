@@ -1,0 +1,2 @@
+# efc701bda8dfd309-church-ministry-document-appro
+Professional church ministry browser extension — without the professional price tag.  Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Church Ministry Document Approval Workflow — fully configured and ready to use - One-clic
